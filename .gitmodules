@@ -4,3 +4,6 @@
 [submodule "client"]
 	path = client
 	url = https://github.com/cegersdoerfer/client
+[submodule "iosense_model"]
+	path = iosense_model
+	url = https://github.com/cegersdoerfer/iosense_model.git
